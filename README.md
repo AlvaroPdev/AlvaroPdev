@@ -7,7 +7,6 @@
 🎓 &nbsp;Soy recién egresado en el área de desarrollo de software.\
 🌱 &nbsp;Estoy aprendiendo más sobre desarrollo web, bases de datos y arquitectura de software.\
 ✉️ &nbsp;Puedes enviarme un correo a ampcastro1305@gmail.com!. Responderé lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [portafolio](https://alvarparedes.netlify.app/) para conocer más sobre mi trabajo. ¡Estoy abierto a sugerencias y colaboraciones!
 
 ## 🛠 &nbsp;Tech Stack
 
